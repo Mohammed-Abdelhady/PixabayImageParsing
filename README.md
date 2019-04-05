@@ -18,7 +18,8 @@ https://pixabay.com/api/docs/
 2- volley Library:
 https://developer.android.com/training/volley
 
-3- https://square.github.io/picasso/
+3- Picasso Library:
+https://square.github.io/picasso/
 
 
 
